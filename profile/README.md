@@ -1,4 +1,8 @@
+
+<img src="https://github.com/user-attachments/assets/8feb8679-7b0f-42d1-98d3-cea4fa2e657b" width="800px" height="auto" />
+
 # Orange Ember Studios 🍊🔥
+
 
 > **Igniting creativity through code.**
 
