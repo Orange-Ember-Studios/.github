@@ -4,7 +4,7 @@
 
 Welcome to the official home of **Orange Ember Studios**. We are a forward-thinking collective dedicated to building immersive video games, high-performance web applications, and innovative developer tools.
 
-[Website](https://orangeember.dev) • [Twitter](https://twitter.com/OrangeEmber) • [LinkedIn](https://linkedin.com/company/orangeember)
+[Website](https://orangeember.com) • [Twitter](https://twitter.com/OrangeEmber) • 
 
 ---
 
