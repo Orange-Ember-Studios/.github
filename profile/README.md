@@ -35,9 +35,9 @@ At Orange Ember Studios, we believe that the most powerful tools and the most ca
 
 We love experimenting with new technologies, but these are our daily drivers:
 
-* **Languages:** TypeScript, Rust, C#, Go.
-* **Engines & Frameworks:** Unity, Unreal Engine, React, TailwindCSS.
-* **Infrastructure:** Cloudflare, AWS, Docker.
+* **Languages:** TypeScript, GDScript, C++, Go.
+* **Engines & Frameworks:** Godot, React, TailwindCSS, Astro.
+* **Infrastructure:** Cloudflare, Vercel.
 
 ---
 
@@ -52,7 +52,6 @@ We are huge believers in open source. Check out our repositories to see what we'
 
 ### 📬 Stay Connected
 
-* **Discord:** [Join our community](https://discord.gg/orangeember)
-* **Newsletter:** [Subscribe to The Ember](https://orangeember.dev/newsletter)
+* **Discord:** [Join our community (soon...)](https://discord.gg/orangeember)
 
 *"Code is the fuel, creativity is the flame."*
