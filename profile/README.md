@@ -1,52 +1,57 @@
-# 🧠 Clever Escape Studios
+# Orange Ember Studios 🍊🔥
 
-**Bienvenido a Clever Escape Studios**, donde el ingenio se convierte en juego. Somos un estudio independiente dedicado a crear experiencias interactivas que celebran la creatividad, la lógica y la diversión compartida.
+> **Igniting creativity through code.**
 
----
+Welcome to the official home of **Orange Ember Studios**. We are a forward-thinking collective dedicated to building immersive video games, high-performance web applications, and innovative developer tools.
 
-## 🎮 ¿Qué hacemos?
-
-Nos especializamos en tres tipos de experiencias:
-- 🔐 **Escape Games**: desafíos mentales con narrativa y resolución creativa.
-- 🎉 **Party Games**: dinámicas rápidas, rejugables y perfectas para jugar en grupo.
-- 🧩 **Puzles**: sistemas lógicos y visuales que retan la mente y estimulan la curiosidad.
-
-Cada proyecto está diseñado con modularidad, claridad y rejugabilidad en mente.
+[Website](https://orangeember.dev) • [Twitter](https://twitter.com/OrangeEmber) • [LinkedIn](https://linkedin.com/company/orangeember)
 
 ---
 
-## 🧩 Nuestra filosofía
+## 🚀 About Us
 
-- **Diseño modular**: cada componente puede escalar, adaptarse y reutilizarse.
-- **Iteración ágil**: prototipos funcionales en ciclos cortos.
-- **Colaboración abierta en ideas**: creemos en compartir conceptos y aprender en el proceso.
+At Orange Ember Studios, we believe that the most powerful tools and the most captivating worlds are born at the intersection of logic and imagination. Our mission is to empower creators and users alike with software that is as reliable as it is inspiring.
 
----
+### 🛠 What We Do
 
-## 🚀 Proyecto en curso
-
-| Proyecto | Descripción | Estado |
-|---------|-------------|--------|
-| 🏝️ **Crazy Islands** | Juego party con escenarios temáticos, obstáculos dinámicos y mecánicas rejugables | En planeación |
+* **🎮 Game Development:** Crafting unique digital experiences with a focus on indie innovation and engaging mechanics.
+* **🌐 Web Ecosystems:** Building scalable, modern web apps using the latest tech stacks (React, Next.js, Rust, etc.).
+* **🛠 Dev Tools:** Creating the tools we wish we had—designed by developers, for developers, to streamline the creative workflow.
 
 ---
 
-## 🤝 Colaboración
+## 🏗 Featured Projects
 
-Actualmente no tenemos colaboración abierta en código, pero sí compartimos avances, ideas y visión creativa.  
-Si te interesa seguir nuestro progreso, ¡mantente atento a este perfil!
-
----
-
-<!--## 📫 Contacto-->
-
-<!-- 🌐 [cleverescapestudios.com](https://example.com) *(sitio en construcción)* -->
-<!-- 🐦 Twitter: [@CleverEscapeDev](https://twitter.com/CleverEscapeDev)-->
-<!-- 📧 Email: contacto@cleverescapestudios.com -->
+| Project | Category | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **Project Spark** | Game | A fast-paced physics-based platformer. | *In Development* |
+| **EmberUI** | Dev Tool | A lightweight, accessible component library for React. | *Beta* |
+| **OrangeFlow** | Web App | Collaborative workspace for creative coding teams. | *Coming Soon* |
 
 ---
 
-## 🧠 ¿Por qué “Clever Escape”?
+## 💻 Our Tech Stack
 
-Porque creemos que escapar no es huir… es **resolver**.  
-Cada juego que creamos es una celebración del ingenio, la colaboración y la diversión.
+We love experimenting with new technologies, but these are our daily drivers:
+
+* **Languages:** TypeScript, Rust, C#, Go.
+* **Engines & Frameworks:** Unity, Unreal Engine, React, TailwindCSS.
+* **Infrastructure:** Cloudflare, AWS, Docker.
+
+---
+
+## 🤝 Join the Spark
+
+We are huge believers in open source. Check out our repositories to see what we're working on, or feel free to contribute!
+
+* **Reporting Bugs:** Please open an issue in the specific repository.
+* **Collaborations:** Want to build something together? Reach out at `hello@orangeember.com`.
+
+---
+
+### 📬 Stay Connected
+
+* **Discord:** [Join our community](https://discord.gg/orangeember)
+* **Newsletter:** [Subscribe to The Ember](https://orangeember.dev/newsletter)
+
+*"Code is the fuel, creativity is the flame."*
