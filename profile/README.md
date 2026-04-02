@@ -28,10 +28,7 @@ At Orange Ember Studios, we believe that the most powerful tools and the most ca
 
 | Project | Category | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Spark** | Game | A fast-paced physics-based platformer. | *In Development* |
-| **EmberUI** | Dev Tool | A lightweight, accessible component library for React. | *Beta* |
-| **OrangeFlow** | Web App | Collaborative workspace for creative coding teams. | *Coming Soon* |
-
+| **Taxi Bogota Rush** | Mobile Game | 2D Enless runner. | *In Development* |
 ---
 
 ## 💻 Our Tech Stack
